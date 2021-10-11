@@ -1,0 +1,188 @@
+
+Notebooks/\.ipynb_checkpoints/
+
+*.ipynb
+
+Notebooks/grumpy.npy
+
+Notebooks/graph\.aux
+
+Notebooks/graph\.fdb_latexmk
+
+Notebooks/graph\.fls
+
+Notebooks/graph\.log
+
+Notebooks/graph\.pdf
+
+Notebooks/lualatex18369\.fls
+
+Notebooks/lualatex18377\.fls
+
+Notebooks/lualatex18685\.fls
+
+Classes/\.ipynb_checkpoints/
+
+.ipynb_checkpoints/
+
+Lectures/call_graph.svg.svg
+
+Lectures/call_graph
+
+Lectures/hidden_layer
+
+Lectures/MLP
+
+Lectures/__pycache__/
+
+Lectures/data/mnist/
+
+Lectures/mnist\.pt
+
+Classes/classification\.npy
+
+Classes/deform_model\.pt
+
+Classes/model\.pt
+
+Classes/reg_data\.npy
+
+Classes/reg_data_noise\.npy
+
+Classes/classification_problem\.npy
+
+Classes/deform_model_pegaz\.pt
+
+Classes/multi_summary\.png
+
+Classes/3blobs\.pt
+
+Lectures/GAN/img/
+
+Lectures/GAN/data/
+
+.DS_Store
+
+Lectures/L02_StochasticGradientDescent/__pycache__/
+
+Lectures/L02_StochasticGradientDescent/data/
+
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/artifacts
+# .idea/compiler.xml
+# .idea/jarRepositories.xml
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+# *.iml
+# *.ipr
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+modules/__pycache__/
+
+Lectures/L03/__pycache__/
+
+Lectures/L03/data/
+
+Lectures/L04_Regularisation/__pycache__/
+
+Lectures/GAN/gan.pt
+
+src/GAN/__pycache__/
+
+Lectures/GAN/CGAN_mnist.Rmd
+
+Lectures/L06_GAN/img/
+
+Lectures/L06_GAN/gan.pt
+
+Lectures/L06_GAN/gan_1.pt
+
+Lectures/L06_GAN/a.png
+
+Lectures/L06_GAN/DCGAN_MNIST-precalc.Rmd
+
+Lectures/L07_AdversarialExamples/__pycache__/
+
+Lectures/L07_AdversarialExamples/another_mnist.pt
+
+Lectures/L07_AdversarialExamples/mnist_home_model.pt
+
+src/__pycache__/
+
+doc/tikz.aux
+
+doc/tikz.fdb_latexmk
+
+doc/tikz.fls
+
+doc/tikz.log
+
+doc/tikz.pdf
+
+doc/tikz.synctex.gz
+
+Lectures/_build/
+
+*.Rmd
