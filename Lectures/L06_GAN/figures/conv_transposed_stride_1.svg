@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="545.369" height="361.746" viewBox="0, 0, 545.369, 361.746">
+  <defs>
+    <pattern id="Pattern_1" patternUnits="userSpaceOnUse" x="157.69" y="321.815" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_2" patternUnits="userSpaceOnUse" x="236.22" y="321.815" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_3" patternUnits="userSpaceOnUse" x="314.751" y="321.815" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_4" patternUnits="userSpaceOnUse" x="393.281" y="321.815" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_5" patternUnits="userSpaceOnUse" x="471.812" y="321.815" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_6" patternUnits="userSpaceOnUse" x="157.69" y="33.786" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_7" patternUnits="userSpaceOnUse" x="314.751" y="33.787" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_8" patternUnits="userSpaceOnUse" x="471.812" y="33.787" width="20" height="20" patternTransform="matrix(0.25, 0, 0, 0.25, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L20,0 L20,20 L0,20 z" fill="#F2F2F2"/>
+        <path d="M0,0 L10,0 L10,10 L0,10 z" fill="#808080"/>
+        <path d="M10,10 L20,10 L20,20 L10,20 z" fill="#808080"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Layer_1" transform="translate(-77.441, -32.786)">
+    <path d="M432.688,355.252 L350.021,63.067" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M272.939,355.252 L350.021,63.067" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M355.282,355.252 L350.021,63.067" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M588.046,361.627 L505.379,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M428.296,361.627 L505.379,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M510.639,361.627 L505.379,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M272.939,361.627 L194.846,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M194.846,361.627 L194.846,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M115.159,361.627 L194.846,69.442" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <g>
+      <path d="M157.69,321.815 L229.408,321.815 L229.408,393.533 L157.69,393.533 L157.69,321.815 z" fill="url(#Pattern_1)"/>
+      <path d="M157.69,321.815 L229.408,321.815 L229.408,393.533 L157.69,393.533 L157.69,321.815 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M78.941,322.315 L150.659,322.315 L150.659,394.033 L78.941,394.033 L78.941,322.315 z" fill="#FFFFFF"/>
+      <path d="M78.941,322.315 L150.659,322.315 L150.659,394.033 L78.941,394.033 L78.941,322.315 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M550.592,322.315 L622.31,322.315 L622.31,394.033 L550.592,394.033 L550.592,322.315 z" fill="#FFFFFF"/>
+      <path d="M550.592,322.315 L622.31,322.315 L622.31,394.033 L550.592,394.033 L550.592,322.315 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M236.22,321.815 L307.938,321.815 L307.938,393.533 L236.22,393.533 L236.22,321.815 z" fill="url(#Pattern_2)"/>
+      <path d="M236.22,321.815 L307.938,321.815 L307.938,393.533 L236.22,393.533 L236.22,321.815 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M314.751,321.815 L386.469,321.815 L386.469,393.533 L314.751,393.533 L314.751,321.815 z" fill="url(#Pattern_3)"/>
+      <path d="M314.751,321.815 L386.469,321.815 L386.469,393.533 L314.751,393.533 L314.751,321.815 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M393.281,321.815 L464.999,321.815 L464.999,393.533 L393.281,393.533 L393.281,321.815 z" fill="url(#Pattern_4)"/>
+      <path d="M393.281,321.815 L464.999,321.815 L464.999,393.533 L393.281,393.533 L393.281,321.815 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M471.812,321.815 L543.53,321.815 L543.53,393.533 L471.812,393.533 L471.812,321.815 z" fill="url(#Pattern_5)"/>
+      <path d="M471.812,321.815 L543.53,321.815 L543.53,393.533 L471.812,393.533 L471.812,321.815 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M157.69,33.786 L229.408,33.786 L229.408,105.504 L157.69,105.504 L157.69,33.786 z" fill="url(#Pattern_6)"/>
+      <path d="M157.69,33.786 L229.408,33.786 L229.408,105.504 L157.69,105.504 L157.69,33.786 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M314.751,33.787 L386.469,33.787 L386.469,105.504 L314.751,105.504 L314.751,33.787 z" fill="url(#Pattern_7)"/>
+      <path d="M314.751,33.787 L386.469,33.787 L386.469,105.504 L314.751,105.504 L314.751,33.787 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M471.812,33.787 L543.53,33.787 L543.53,105.504 L471.812,105.504 L471.812,33.787 z" fill="url(#Pattern_8)"/>
+      <path d="M471.812,33.787 L543.53,33.787 L543.53,105.504 L471.812,105.504 L471.812,33.787 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
